@@ -29,3 +29,13 @@ Repositorio correspondiente al Sprint 7 de la especialización en Análisis de D
 - NumPy
 - pandas
 - Google Colab
+
+## Archivos del repositorio
+
+- [Sprint_7.ipynb](Sprint_7.ipynb): cuaderno con el desarrollo completo de los ejercicios.
+- [historic_partits.txt](historic_partits.txt): archivo de datos utilizado en el ejercicio de clasificación de equipos.
+
+## Ejecución
+
+El cuaderno fue desarrollado y comprobado en Google Colab.  
+Para ejecutar el ejercicio de clasificación de equipos, es necesario disponer del archivo `historic_partits.txt`.
